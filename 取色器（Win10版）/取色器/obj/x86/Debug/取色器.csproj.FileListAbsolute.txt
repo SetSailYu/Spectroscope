@@ -1,0 +1,13 @@
+F:\C#项目\取色器\取色器\bin\Debug\取色器.exe
+F:\C#项目\取色器\取色器\bin\Debug\取色器.pdb
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.Form1.resources
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.Properties.Resources.resources
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.csproj.GenerateResource.Cache
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.exe
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.pdb
+F:\C#项目\取色器\取色器\bin\Debug\取色器.exe.manifest
+F:\C#项目\取色器\取色器\bin\Debug\取色器.application
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.TrustInfo.xml
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.exe.manifest
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.application
+F:\C#项目\取色器\取色器\obj\x86\Debug\取色器.csprojResolveAssemblyReference.cache
