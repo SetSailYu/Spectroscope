@@ -1,5 +1,5 @@
 # Spectroscope（windows取色器）
-基于C#写的windows环境下的取色器工具
+使用C#写的windows屏幕拾取颜色块的取色器工具
 
 打开路径：
               取色器/bin/Debug/取色器.exe
